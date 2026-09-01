@@ -1,0 +1,41 @@
+# Xcode
+## User settings & state
+xcuserdata/
+*.xcuserdatad
+*.xcscmblueprint
+
+## Build & DerivedData
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Swift Package Manager
+.build/
+.swiftpm/
+
+## CocoaPods & Carthage (if added in the future)
+Pods/
+Carthage/Build/
+
+## Apple Provisioning & Certificates
+*.mobileprovision
+*.cer
+*.cert
+*.p12
+*.p8
+*.key
+*.pem
+
+## macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+## Local / Environment configs
+*.local
+.env
