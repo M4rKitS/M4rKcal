@@ -28,7 +28,7 @@ Dark-first interface with a custom terracotta accent, built around the same visu
 
 ## Requirements
 
-- iOS 17+
+- iOS 17.6+
 - Xcode 15+
 - An Apple Developer account (free tier works for local builds)
 - Optional: a Hevy Pro account for workout sync
